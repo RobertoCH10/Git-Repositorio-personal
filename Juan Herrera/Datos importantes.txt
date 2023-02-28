@@ -1,0 +1,5 @@
+Nombre: Juan Antonio Herrera Guerrero
+Expediente: 298081
+Edad: 20
+Carrera: Ingenieria de Software
+correo: Jherrera58@alumnos.uaq.mx
